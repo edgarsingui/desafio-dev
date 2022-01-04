@@ -12,7 +12,7 @@ Ficheiro [CNAB](https://github.com/ByCodersTec/desafio-dev/blob/main/CNAB.txt) a
 2. Deve fazer o clone desse repositorio para a sua máquina
 3. Deve ter instalado o PHP em sua máquina.
 4. Criar uma base de dados de nome "desafio"
-5. Importar a [(base de dados)][https://github.com/edgarsingui/desafio-dev/blob/main/desafio.sql]
+5. Importar a [base de dados](https://github.com/edgarsingui/desafio-dev/blob/main/desafio.sql)
 6. Renomeiar o arquivo ".env.example" para ".env"
 7. Em ".env" Localizar o "DB_DATABASE=laravel" e trocar por "DB_DATABASE=desafio" ou pelo nome da base de dados criada
 8. Navegar pelo terminal até a pasta do projecto e rodar o comando "php artisan key:generate"
